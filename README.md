@@ -77,6 +77,7 @@ Learn more about how to create scripts and find the Lua API reference in the [wi
  - A320M GAMING PRO (works)
  - B365M PRO-VDH (works)
  - Z370 PC PRO (works)
+ - A320M GRENADE (works)
  - 
  - B350 TOMAHAWK (works despite giving warning message on start)
  - B350 GAMING PLUS (works despite giving warning message on start)
@@ -94,7 +95,6 @@ Learn more about how to create scripts and find the Lua API reference in the [wi
  - 
  - B350I PRO AC (untested, should work)
  - B350M GAMING PRO (untested, should work)
- - A320M GRENADE (untested, should work)
  - B450M PRO-VDH (untested, should work)
  - B450M BAZOOKA (untested, should work)
  - Z370 OC GAMING (untested, should work)
